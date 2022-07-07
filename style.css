@@ -78,7 +78,7 @@ body {
 
 .instagram-login {
     background-color: #0095f6;
-    color: #ffffff;
+    color: #ffffff !important;
     padding: 8px;
     border-radius: 4px;
 }
